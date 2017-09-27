@@ -1,0 +1,12 @@
+{
+  "name": "nodehero",
+  "version": "1.0.0",
+  "description": "\"Messing around with basic Node.JS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Elvin Samuel",
+  "license": "ISC"
+}
